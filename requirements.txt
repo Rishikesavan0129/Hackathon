@@ -1,5 +1,5 @@
-streamlit==1.15.0
+streamlit
 opencv-python==4.5.5.64
-pandas==1.4.2
-Pillow==9.1.0
-numpy==1.21.5
+pandas
+Pillow
+numpy
